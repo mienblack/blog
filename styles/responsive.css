@@ -1,0 +1,138 @@
+@media screen and (max-width: 1350px) {
+    .intro {
+        width: 30vw;
+    }
+
+    .intro h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .intro p {
+        font-size: 0.7rem;
+        width: 20vw;
+    }
+
+    .intro a {
+        font-size: 14px;
+    }
+
+    #feat-image {
+        width: 50%;
+        height: 50%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    header {
+        padding: 30px 80px;
+        justify-content: space-around;
+    }
+
+    .header-content {
+        flex-direction: column;
+    }
+
+    header nav {
+        flex-direction: column;
+    }
+
+    nav .logo {
+        align-self: flex-start;
+    }
+
+    nav .search,
+    nav ul {
+        align-self: flex-end;
+    }
+
+    nav .logo,
+    nav ul {
+        margin-bottom: 20px;
+    }
+
+    .intro {
+        width: 100%;
+    }
+
+    .intro p {
+        width: 100%;
+    }
+
+    .intro p,
+    .intro a,
+    .intro h1 {
+        margin-bottom: 10px;
+    }
+
+    #feat-image {
+        align-self: flex-end;
+    }
+
+    .first-section {
+        flex-direction: column;
+        width: 100%;
+        height: inherit;
+    }
+
+    .first-section img {
+        width: 100%;
+    }
+
+    .second-section {
+        flex-direction: column;
+        height: inherit;
+    }
+
+    main p, main h3, main img {
+        margin-top: 10px;
+    }
+
+    main p {
+        text-align: justify;
+    }
+
+    .second-section article {
+        max-width: 573px;
+        height: inherit;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    nav .logo {
+        width: 50%;
+        height: 50%;
+    }
+
+    nav ul {
+        font-size: 0.7rem;
+        align-self: flex-start;
+    }
+
+    .search {
+        width: 150px;
+        height: 22px;
+    }
+
+    .search input {
+        padding: 5px;
+        width: 115px;
+        height: 22px;
+        font-size: 0.5rem;
+    }
+
+    .search button {
+        width: 35px;
+        height: 22px;
+    }
+
+    .search button img {
+        width: 50%;
+        height: 50%;
+    }
+
+    main {
+        padding: 25px 50px;
+    }
+}
