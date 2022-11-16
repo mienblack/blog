@@ -1,7 +1,8 @@
-<h1 align="center">Rocketblog</h1>
+<img src="./images/logo.svg">
+<h1 align="center">blog</h1>
 
 <p align="center">Homepage de um blog genérico.</p><br>
-<h3 align="center"><a href="https://mienblack.github.io/rocketblog/" target="_blank"><strong>[ DÊ UMA OLHADA ]</strong></a></h3>
+<h3 align="center"><a href="https://mienblack.github.io/blog/" target="_blank"><strong>[ DÊ UMA OLHADA ]</strong></a></h3>
 
 ---
 
@@ -9,7 +10,7 @@
 
 
 <div align="center">
-  <img alt="the eblog homepage" title="Homepage de um blog" src="./images/readme/blog.gif" height="400px"/>
+  <img alt="the blog homepage" title="Homepage de um blog" src="./images/readme/blog.gif" height="400px"/>
 
 </div>
 
