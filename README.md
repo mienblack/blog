@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img alt="the eblog homepage" title="Homepage de um blog" src="./toREADME/blog.gif" height="400px"/>
+  <img alt="the eblog homepage" title="Homepage de um blog" src="./images/readme/blog.gif" height="400px"/>
 
 </div>
 
