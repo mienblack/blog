@@ -15,12 +15,13 @@
 
 ## 💻 Projeto
 
-Neste projeto utilizo, ferramentas básicas para construção de um blog, com responsividade.
+Neste projeto utilizo, ferramentas básicas para construção de um blog, com responsividade e troca de tema.
 
 ## 🚀 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [JavaScript]
 - [HTML]
 - [CSS]
 

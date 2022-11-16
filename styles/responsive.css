@@ -23,7 +23,7 @@
     }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
 
     header {
         padding: 30px 80px;
@@ -36,6 +36,11 @@
 
     header nav {
         flex-direction: column;
+    }
+
+    #feat-image {
+        max-width: 350px;
+        align-self: flex-start;
     }
 
     nav .logo {
@@ -66,11 +71,8 @@
         margin-bottom: 10px;
     }
 
-    #feat-image {
-        align-self: flex-end;
-    }
-
     .first-section {
+        align-items: center;
         flex-direction: column;
         width: 100%;
         height: inherit;
@@ -83,6 +85,11 @@
     .second-section {
         flex-direction: column;
         height: inherit;
+        overflow-x: hidden;
+    }
+
+    main {
+        align-items: center;
     }
 
     main p, main h3, main img {
